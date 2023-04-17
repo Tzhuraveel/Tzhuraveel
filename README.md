@@ -8,6 +8,9 @@
   <img height="25" title="TypeScript" src="https://github.com/Tzhuraveel/icons/blob/master/skils/TypeScript.png">
 </span>
 <span>
+  <img height="25" title="NodeJs" src="https://github.com/Tzhuraveel/icons/blob/master/skils/nestjs.png">
+</span>
+<span>
   <img height="25" title="NodeJs" src="https://github.com/Tzhuraveel/icons/blob/master/skils/NodeJS.png">
 </span>
 <span>
