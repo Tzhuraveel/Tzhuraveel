@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### Languages and Tools:
-
 <span>
   <img height="25" title="JavaScript" src="https://github.com/Tzhuraveel/icons/blob/master/skils/JavaScript.png">
 </span>
@@ -21,6 +20,9 @@
 </span>
 <span>
   <img height="25" title="IntelijIDEA" src="https://github.com/Tzhuraveel/icons/blob/master/skils/Intelij.png">
+</span>
+<span>
+  <img height="25" title="IntelijIDEA" src="https://github.com/Tzhuraveel/icons/blob/master/skils/docker.png">
 </span>
 <span>
   <img height="25" title="NPM" src="https://github.com/Tzhuraveel/icons/blob/master/skils/npm.png">
