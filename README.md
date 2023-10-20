@@ -35,7 +35,7 @@
 </span>
 <span>
   <img height="25" title="MySQL" src="https://github.com/Tzhuraveel/icons/blob/master/skils/MySQL.png">
-</span>
+</span> 
 
 
 <!--
